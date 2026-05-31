@@ -91,6 +91,7 @@ ufc-fighting-style/
 
 ## About
 This is a personal portfolio project built to apply and demonstrate machine learning concepts using real-world sports data. Built while learning data science fundamentals step by step.
+Data sourced from Kaggle @ https://www.kaggle.com/datasets/4c0f7ea4116c2097944302199d6327904228d8301818094c306c8d65533be612?select=ufc_fighters_final.csv
 
 📎 [LinkedIn](https://www.linkedin.com/in/bri-jen)
 
