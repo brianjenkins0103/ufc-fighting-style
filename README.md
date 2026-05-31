@@ -3,6 +3,11 @@
 
 ---
 
+## To view ipynb files
+- [01 — Data Prep](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/01_dataprep_eda.ipynb)
+- [02 — K-Means](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/02_kmeans.ipynb)
+- [03 — Decision Tree](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/03_decision_tree.ipynb)
+
 ## Overview
 This project analyzes UFC fighter statistics to discover natural fighting style clusters and build a classifier that can predict a fighter's style based on their stats and physical attributes.
 
@@ -16,8 +21,11 @@ ufc-fighting-style/
 ├── 01_data_prep.ipynb        # Data cleaning, feature engineering, EDA
 ├── 02_kmeans.ipynb           # Unsupervised clustering to discover styles
 ├── 03_decision_tree.ipynb    # Supervised classification using K-Means labels
-├── fighters.csv              # Raw dataset
-├── fighters_clean.csv        # Cleaned and engineered dataset
+├── ufc_fighters_final.csv    # Raw dataset
+├── fighters_clean.csv        # Cleaned dataset
+├── fighter_styles_clean.csv  # cleaned dataset with fighting styles found in Kmeans dataset
+├── info.md                   # info about variables inn dataset
+├── spider_charts.pdf         # Spider/Radar charts for fighting styles
 └── decision_tree.png         # Visualization of trained decision tree
 ```
 
