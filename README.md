@@ -68,8 +68,6 @@ ufc-fighting-style/
 
 ---
 
-## Decision Tree Visualization
-![Decision Tree](decision_tree.png)
 
 ---
 
@@ -84,5 +82,5 @@ ufc-fighting-style/
 ## About
 This is a personal portfolio project built to apply and demonstrate machine learning concepts using real-world sports data. Built while learning data science fundamentals step by step.
 
-📎 [LinkedIn](https://www.linkedin.com/in/yourprofile) — *replace with your link*
+📎 [LinkedIn](https://www.linkedin.com/in/bri-jen)
 
