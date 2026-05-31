@@ -4,9 +4,9 @@
 ---
 
 ## To view ipynb files
-- [01 — Data Prep](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/01_dataprep_eda.ipynb)
-- [02 — K-Means](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/02_kmeans.ipynb)
-- [03 — Decision Tree](https://nbviewer.org/github/yourusername/ufc-fighting-style/blob/main/03_decision_tree.ipynb)
+- [01 — Data Prep](https://nbviewer.org/github/brianjenkins0103/ufc-fighting-style/blob/main/01_dataprep_eda.ipynb)
+- [02 — K-Means](https://nbviewer.org/github/brianjenkins0103/ufc-fighting-style/blob/main/02_kmeans.ipynb)
+- [03 — Decision Tree](https://nbviewer.org/github/brianjenkins0103/ufc-fighting-style/blob/main/03_decision_tree.ipynb)
 
 ## Overview
 This project analyzes UFC fighter statistics to discover natural fighting style clusters and build a classifier that can predict a fighter's style based on their stats and physical attributes.
